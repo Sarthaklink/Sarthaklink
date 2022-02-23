@@ -13,6 +13,7 @@ Trouble shooting for internet setting, Networking installation, IP Address,
 Networking LAN-VAN-WAN Configuration
 Configuring operating systems and using remote desktop connections to provide
 immediate support.
+
 TECHNICAL SKILLS
  Configure, monitor and troubleshoot LAN, WAN & MAN infrastructure.
  Good Knowledge of SDWAN, BGP, MPLS, DMVPN.
@@ -27,6 +28,7 @@ TECHNICAL SKILLS
  Exposure to Network Security – Kali Linux, Metasploit, Nmap, Wireshark etc.
  Exposure to Wireless Technologies – 802.11 standards, AP modes, WLC Configuration etc.
  Exposure to Network Automation and Programmability, JSON encoded data etc.
+
 PROFESSIONAL SKILLS
  Self starter with good technical knowledge.
  Dedicated to quality and punctuality.
